@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projectredux", "projectredux.csproj", "{5296CFD8-9520-4634-9BB1-39EFAD46F36B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5296CFD8-9520-4634-9BB1-39EFAD46F36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5296CFD8-9520-4634-9BB1-39EFAD46F36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5296CFD8-9520-4634-9BB1-39EFAD46F36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5296CFD8-9520-4634-9BB1-39EFAD46F36B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD45356F-BF52-45FF-A216-56BFEF05EB53}
+	EndGlobalSection
+EndGlobal

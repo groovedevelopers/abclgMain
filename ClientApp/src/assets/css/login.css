@@ -1,0 +1,73 @@
+
+
+@media (min-width: 801px) {
+	.login-box{
+		width: 50%; 
+		margin: 0 auto;
+		margin-top: 7%;
+		position: fixed;
+		margin-left: 25%;
+	
+		
+	}
+	
+	.grid{
+		box-shadow: 3px 3px 23px 3px gray;
+		padding: 30px;
+		
+	}
+	
+	.logo{
+		height: 200px;
+		width: 400px;
+		display:block;
+		margin-left: auto;
+		margin-right: auto;
+		padding: 10px;
+		
+	}
+	
+	.loginForm{
+		/* margin-left: 30%; */
+		padding-right: 40px;
+		padding-left: 40px;
+	}
+	
+	.btnRegister{
+	float: right;	
+	}
+}
+
+
+@media (max-width: 800px) {
+	.login-box{
+		/* border: 1px solid red; */
+		width: 100%;
+		overflow: hidden;
+		/* height: 100%; */
+		margin-top: 10%;
+	}
+
+	.grid{
+		box-shadow: none;
+		padding: 10px;
+		
+	}
+
+	.logo{
+		height: 200px;
+		width: 300px;
+		padding: 40px;
+		
+	}
+
+	.loginForm{
+		/* margin-left: 30%; */
+		padding-right: 40px;
+		padding-left: 40px;
+	}
+	
+	.btnRegister{
+	float: right;	
+	}
+}
